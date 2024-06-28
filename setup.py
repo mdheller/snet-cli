@@ -47,7 +47,7 @@ setup(
         'web3==4.8.3',
         'mnemonic==0.18',
         'pycoin>=0.80',
-        'ecdsa==0.13',
+        'ecdsa==0.19.0',
         'trezor==0.9.1',
         'rlp==1.0.1',
         'pyyaml>=4.2b1',
